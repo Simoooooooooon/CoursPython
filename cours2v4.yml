@@ -1,0 +1,17 @@
+name: base
+channels:
+  - diffpy
+  - defaults
+dependencies:
+  - python=3.11
+  - conda=23.11.0
+  - jupyterlab
+  - numpy
+  - matplotlib
+  - pandas
+  - pyqtgraph
+  - plotly
+  - anaconda::scipy
+  - spyder
+  - opencv
+prefix: C:\Users\cayez\Anaconda3\envs\cours2
